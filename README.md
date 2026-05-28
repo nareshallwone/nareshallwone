@@ -146,7 +146,7 @@ I'm a fresher with a sharp mind, strong fundamentals, and a genuine drive to gro
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nareshallwone/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naresh271.github.io/Naresh271-GitHub.io/)
+[![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshallwone.github.io/Naresh271-GitHub.io/)
 
 </div>
 
