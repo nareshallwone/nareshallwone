@@ -92,7 +92,7 @@ class Naresh:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://naresh271.github.io/Naresh271-GitHub.io/" target="_blank">
+  <a href="https://nareshallwone.github.io/Naresh271-GitHub.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
